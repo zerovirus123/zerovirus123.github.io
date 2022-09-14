@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zerovirus123.github.io/static/css/main.1f29708f.css",
+    "main.js": "/zerovirus123.github.io/static/js/main.c36c0743.js",
+    "static/js/787.f34f0ec9.chunk.js": "/zerovirus123.github.io/static/js/787.f34f0ec9.chunk.js",
+    "index.html": "/zerovirus123.github.io/index.html",
+    "main.1f29708f.css.map": "/zerovirus123.github.io/static/css/main.1f29708f.css.map",
+    "main.c36c0743.js.map": "/zerovirus123.github.io/static/js/main.c36c0743.js.map",
+    "787.f34f0ec9.chunk.js.map": "/zerovirus123.github.io/static/js/787.f34f0ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f29708f.css",
+    "static/js/main.c36c0743.js"
+  ]
+}
